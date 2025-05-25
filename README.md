@@ -2,9 +2,9 @@
 A fully functional and responsive Calculator built using HTML, CSS, and JavaScript. Supports basic arithmetic operations and has a sleek, user-friendly interface.
 
 # 🚀 Live Demo
-👉
+👉 https://harjapbhatia.github.io/calculator/
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 - HTML – Structure of the calculator layout
 - CSS – Styling and responsive design
 - JavaScript – Functionality and operation logic
